@@ -1,0 +1,7 @@
+wagtail==7.2
+Django>=5.0,<5.3
+redis==5.0.0
+django-redis==5.4.0
+Pillow>=10.0
+djangorestframework>=3.14
+wagtail-metadata>=5.0
